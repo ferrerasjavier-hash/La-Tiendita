@@ -1,0 +1,14 @@
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\bin\Debug\net10.0\LaTiendita.exe
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\bin\Debug\net10.0\LaTiendita.deps.json
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\bin\Debug\net10.0\LaTiendita.runtimeconfig.json
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\bin\Debug\net10.0\LaTiendita.dll
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\bin\Debug\net10.0\LaTiendita.pdb
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.AssemblyInfoInputs.cache
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.AssemblyInfo.cs
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.dll
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\refint\LaTiendita.dll
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.pdb
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\LaTiendita.genruntimeconfig.cache
+C:\Users\ferre\Desktop\C#\LaTiendita\LaTiendita\LaTiendita\obj\Debug\net10.0\ref\LaTiendita.dll
